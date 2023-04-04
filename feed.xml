@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>UmpaLampa</title>
+    <link href="https://umpalampa.com/feed.xml" rel="self" />
+    <link href="https://umpalampa.com" />
+    <updated>2023-04-04T22:21:01+02:00</updated>
+    <author>
+        <name>UmpaLampa</name>
+    </author>
+    <id>https://umpalampa.com</id>
+
+    <entry>
+        <title>Opening soon...</title>
+        <author>
+            <name>UmpaLampa</name>
+        </author>
+        <link href="https://umpalampa.com/opening-soon/"/>
+        <id>https://umpalampa.com/opening-soon/</id>
+
+        <updated>2023-04-04T22:21:01+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

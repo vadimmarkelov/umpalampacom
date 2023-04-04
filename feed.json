@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "UmpaLampa",
+    "description": "",
+    "home_page_url": "https://umpalampa.com",
+    "feed_url": "https://umpalampa.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "UmpaLampa"
+    },
+    "items": [
+        {
+            "id": "https://umpalampa.com/opening-soon/",
+            "url": "https://umpalampa.com/opening-soon/",
+            "title": "Opening soon...",
+            "author": {
+                "name": "UmpaLampa"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-04T21:56:44+02:00",
+            "date_modified": "2023-04-04T22:21:01+02:00"
+        }
+    ]
+}
